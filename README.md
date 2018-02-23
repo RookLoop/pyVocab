@@ -18,11 +18,10 @@ multiple choice tests or trivia games from a properly formated group of .txt fil
 The formatting of the .txt files should be as follows. (see any glossary for an example as well)
 
 vocab word:
-definition of vocab word.
 
-vocab word: 
 definition of vocab word.
-
+vocab word:
+definition of vocab word.
 vocab word:
 definition of vocab word
 
