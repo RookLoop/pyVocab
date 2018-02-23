@@ -113,6 +113,7 @@ def getrandomquestion(attempts,correct,totalpossible,glossarydict,deflist,checkl
     if correct == totalpossible:  # one way out of the chapter loop is to answer all questions correctly
         print("\n", correct, " out of ", totalpossible, " answered",\
         "\n",correct, " correct out of ", attempts, " attempts","\n",sep = "")
+        pause()
 
         percentScore = correct / attempts * 100
         percentString = format(percentScore,'.0f') + "%"
@@ -222,9 +223,9 @@ def chapterloopx(filename):
 
 
     while masterAnswer:  # the answer returned doubles as a boolean
-        attempts += 1  # always incremented
         masterAnswer = getrandomquestion(attempts,correct,totalpossible,\
         tOfChXLists[0],tOfChXLists[1],tOfChXLists[2]) # call the question generator with a ton of values passed
+        attempts += 1  # always incremented
         checklisty = []
         if updatechecklistflag:
             correct += 1   # only incremeted when answer was correct
