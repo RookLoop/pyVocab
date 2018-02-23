@@ -1,0 +1,10 @@
+NameError:
+You are trying to use a variable that doesn’t exist in the current environment.
+KeyError:
+You are trying to access an element of a dictionary using a key that the dictionary
+does not contain.
+AttributeError:
+You are trying to access an attribute or method that does not exist.
+IndexError:
+The index you are using to access a list, string, or tuple is greater than its length
+minus one
