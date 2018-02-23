@@ -19,8 +19,10 @@ The formatting of the .txt files should be as follows. (see any glossary for an 
 
 vocab word:
 definition of vocab word.
+
 vocab word: 
 definition of vocab word.
+
 vocab word:
 definition of vocab word
 
