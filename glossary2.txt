@@ -41,5 +41,4 @@ An error that is detected while the program is running.
 semantics:
 The meaning of a program.
 semantic error:
-An error in a program that makes it do something other than what the program-
-mer intended
+An error in a program that makes it do something other than what the programmer intended 

@@ -8,4 +8,4 @@ multiset:
 A mathematical entity that represents a mapping between the elements of a set
 and the number of times they appear.
 factory:
-A function, usually passed as a parameter, used to create objects
+A function, usually passed as a parameter, used to create objects 

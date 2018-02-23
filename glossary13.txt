@@ -14,4 +14,4 @@ and testing them on a sample of the possible inputs.
 rubber duck debugging:
 Debugging by explaining your problem to an inanimate object such as a rubber
 duck; Articulating the problem can help you solve it, even if the rubber duck
-doesn’t know Python
+doesn't know Python 

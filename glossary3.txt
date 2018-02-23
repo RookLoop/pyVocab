@@ -50,7 +50,6 @@ stack diagram:
 A graphical representation of a stack of functions, their variables, and the values
 they refer to.
 frame:
-A box in a stack diagram that represents a function call; It contains the local vari-
-ables and parameters of the function.
+A box in a stack diagram that represents a function call; It contains the local variables and parameters of the function.
 traceback:
-A list of the functions that are executing, printed when an exception occurs
+A list of the functions that are executing, printed when an exception occurs 

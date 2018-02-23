@@ -15,4 +15,4 @@ A style of program design in which the majority of functions are pure.
 invariant:
 A condition that should always be true during the execution of a program.
 assert statement:
-A statement that check a condition and raises an exception if it fails
+A statement that check a condition and raises an exception if it fails 

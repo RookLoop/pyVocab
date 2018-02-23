@@ -25,4 +25,4 @@ The problem of locating an element of a collection (like a list or dictionary) o
 determining that it is not present.
 hashtable:
 A data structure that represents a collection of key-value pairs and performs
-search in constant time
+search in constant time 

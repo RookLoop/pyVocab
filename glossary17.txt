@@ -22,4 +22,4 @@ polymorphic:
 Pertaining to a function that can work with more than one type.
 information hiding:
 The principle that the interface provided by an object should not depend on its
-implementation, in particular the representation of its attributes
+implementation, in particular the representation of its attributes 

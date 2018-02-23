@@ -28,4 +28,4 @@ The association between a variable and its value.
 aliasing:
 A circumstance where two or more variables refer to the same object.
 delimiter:
-A character or string used to indicate where a string should be split
+A character or string used to indicate where a string should be split 

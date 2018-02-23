@@ -5,7 +5,7 @@ A programming language like Python that is designed to be easy for humans to
 read and write.
 low-level language:
 A programming language that is designed to be easy for a computer to run; also
-called “machine language” or “assembly language”.
+called "machine language" or "assembly language".
 portability:
 A property of a program that can run on more than one kind of computer.
 interpreter:
@@ -18,8 +18,7 @@ A set of instructions that specifies a computation.
 print statement:
 An instruction that causes the Python interpreter to display a value on the screen.
 operator:
-A special symbol that represents a simple computation like addition, multiplica-
-tion, or string concatenation.
+A special symbol that represents a simple computation like addition, multiplication, or string concatenation.
 value:
 One of the basic units of data, like a number or string, that a program
 manipulates.
@@ -46,4 +45,4 @@ To examine a program and analyze the syntactic structure.
 bug:
 An error in a program.
 debugging:
-The process of finding and correcting bugs
+The process of finding and correcting bugs 

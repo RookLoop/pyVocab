@@ -19,4 +19,4 @@ To copy the contents of an object as well as any embedded objects, and any
 objects embedded in them, and so on; implemented by the deepcopy function in
 the copy module.
 object diagram:
-A diagram that shows objects, their attributes, and the values of the attributes
+A diagram that shows objects, their attributes, and the values of the attributes 

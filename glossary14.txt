@@ -32,4 +32,4 @@ A program that allows users to type commands and then executes them by start-
 ing other programs.
 pipe object:
 An object that represents a running program, allowing a Python program to run
-commands and read the results
+commands and read the results 

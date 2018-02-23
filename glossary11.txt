@@ -11,7 +11,7 @@ key:
 An object that appears in a dictionary as the first part of a key-value pair.
 value:
 An object that appears in a dictionary as the second part of a key-value pair; This
-is more specific than our previous use of the word “value”.
+is more specific than our previous use of the word "value".
 implementation:
 A way of performing a computation.
 hashtable:
@@ -43,4 +43,4 @@ A statement that declares a variable name global.
 flag:
 A boolean variable used to indicate whether a condition is true.
 declaration:
-A statement like global that tells the interpreter something about a variable
+A statement like global that tells the interpreter something about a variable 

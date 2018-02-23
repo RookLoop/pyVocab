@@ -14,4 +14,4 @@ a loop.
 infinite loop:
 A loop in which the terminating condition is never satisfied.
 algorithm:
-A general process for solving a category of problems
+A general process for solving a category of problems 
