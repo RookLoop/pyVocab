@@ -15,7 +15,7 @@ in the book Think Like A Computer Scientist By Allen B. Downey. Many of the
 functions in here are general enough that they could be used to make other 
 multiple choice tests or trivia games from a properly formated group of .txt files.
 
-The formatting of the .txt files should be as follows.
+The formatting of the .txt files should be as follows. (see any glossary for an example as well)
 
 vocab word: definition of vocab word.
 
