@@ -5,4 +5,5 @@ A way of solving a problem by expressing it as an instance of a previously solve
 problem.
 special case:
 A test case that is atypical or non-obvious (and less likely to be handled
-correctly)
+correctly).
+string: An immutable sequence of characters
